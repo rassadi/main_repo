@@ -1,4 +1,0 @@
-[submodule "datastore/src"]
-	path = datastore/src
-	url = https://github.com/rassadi/my-datasource.git
-	branch = bugfix/make-bucket
