@@ -1,4 +1,4 @@
 [submodule "datastore"]
-        path = datastore
+        path = datastore/src
         url = https://github.com/rassadi/datasource.git
         branch = main
