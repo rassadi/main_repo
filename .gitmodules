@@ -1,3 +1,0 @@
-[submodule "datastore/src"]
-	path = datastore/src
-	url = https://github.com/rafi-assadi/datasource.git
